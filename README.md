@@ -1,2 +1,17 @@
-# Random-Password-Generator-
-The Random Password Generator is a secure tool for creating strong, random passwords. Users can customize the length and include options like uppercase letters, numbers, and special characters, ensuring optimal security for online accounts.
+# Random-Password-Generator-🔐
+
+Description:
+
+The Random Password Generator is a secure tool built with HTML, CSS, and JavaScript for creating strong, customizable passwords.
+Features:
+
+    Generates passwords with customizable length.
+    Includes options for uppercase, lowercase, numbers, and special characters.
+    Copy feature for convenience.
+
+How to Use:
+
+    Open the app in your browser.
+    Select your desired password settings (length, characters).
+    Click "Generate" to create a random password.
+    (Optional) Copy the password for use.
